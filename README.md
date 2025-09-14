@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fika</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Fika is Lifestyle!</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="culture.html">Coffee & Culture</a>
+      <a href="join.html">Join Us</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <p>Fika is the Swedish tradition of taking a break, enjoying coffee, and sharing a chat with friends or colleagues. It’s about slowing down, connecting, and enjoying the moment together.</p>
+    <a href="join.html" class="btn">Join a Coffee Chat</a>
+  </main>
+
+  <footer>© 2025 Fika Moments</footer>
+</body>
+</html>
